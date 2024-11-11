@@ -1,6 +1,6 @@
 # Kalvium SWE_Task 
 
-A lightweight, user-friendly PDF co-viewer built with HTML, CSS, and JavaScript, featuring an intuitive interface for easy navigation. This PDF Co-Viewer lets multiple users view a synchronized PDF presentation in real-time. Designed for seamless remote collaboration, the tool enables an admin to control page navigation, ensuring all users see the same slide as the admin progresses. Ideal for educational settings and remote presentations, this co-viewer keeps everyone on the same page—literally—whether it’s a teacher leading a class or a presenter sharing slides with a remote audience. Built with simplicity, it provides a clean and smooth experience using HTML, CSS, and JavaScript.
+A lightweight, user-friendly PDF co-viewer built with HTML, CSS, and JavaScript, featuring an intuitive interface for easy navigation. This PDF Co-Viewer lets multiple users view a synchronized PDF presentation in real-time. Designed for seamless remote collaboration, the tool enables an admin to control page navigation, ensuring all users see the same slide as the admin progresses. Ideal for educational settings and remote presentations, this co-viewer keeps everyone on the same page, whether it’s a teacher leading a class or a presenter sharing slides with a remote audience. Built with simplicity, it provides a clean and smooth experience using HTML, CSS, and JavaScript.
 
 Features:
 1. Real-Time Synchronization: Ensures that any page change made by the admin instantly reflects across all connected viewers, keeping everyone on the same page.
