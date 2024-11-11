@@ -1,3 +1,3 @@
-# pdf_viewer
+# Kalvium SWE_Task 
 
-custom pdf viewer with pagination built with pdf.js
+custom pdf co-viewer with pagination built with pdf.js
