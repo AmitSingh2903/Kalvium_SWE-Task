@@ -12,6 +12,9 @@ Use Cases:
 2. Virtual Meetings and Webinars: A presenter can guide attendees through slides, ensuring that each participant stays in sync with the presentation.
 3. Group Study Sessions: A study leader can control a PDF document for a study group, allowing all members to follow through notes or study material at the same pace.
 
+Link:
+https://amitsingh2903.github.io/Kalvium_SWE-Task/
+
 # Output
 ![WhatsApp Image 2024-11-12 at 02 52 23](https://github.com/user-attachments/assets/1ce73604-0a41-4387-96b5-c207eda5c167)
 
