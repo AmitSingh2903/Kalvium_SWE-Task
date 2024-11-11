@@ -1,6 +1,16 @@
 # Kalvium SWE_Task 
 
-A lightweight, user-friendly PDF co-viewer built with HTML, CSS, and JavaScript, featuring an intuitive interface for easy navigation. The style.css file provides a clean and responsive design, ensuring the viewer looks polished across devices. The main.js script handles PDF loading and rendering, enabling smooth scrolling and viewing. Ideal for users who need a simple, accessible solution for displaying PDF files directly in the browser without relying on external software.
+A lightweight, user-friendly PDF co-viewer built with HTML, CSS, and JavaScript, featuring an intuitive interface for easy navigation. This PDF Co-Viewer lets multiple users view a synchronized PDF presentation in real-time. Designed for seamless remote collaboration, the tool enables an admin to control page navigation, ensuring all users see the same slide as the admin progresses. Ideal for educational settings and remote presentations, this co-viewer keeps everyone on the same page—literally—whether it’s a teacher leading a class or a presenter sharing slides with a remote audience. Built with simplicity, it provides a clean and smooth experience using HTML, CSS, and JavaScript.
+
+Features:
+1. Real-Time Synchronization: Ensures that any page change made by the admin instantly reflects across all connected viewers, keeping everyone on the same page.
+2. Admin-Controlled Navigation: Allows only the designated admin user to navigate through PDF slides, maintaining organized flow during presentations or lessons.
+3. Simple Interface: Built with HTML, CSS, and JavaScript, it provides a clean and intuitive interface for an uninterrupted co-viewing experience.
+
+Use Cases:
+1. Remote Classrooms: A teacher can share a PDF presentation with students in real time, ensuring that all students follow along as the teacher progresses through the material.
+2. Virtual Meetings and Webinars: A presenter can guide attendees through slides, ensuring that each participant stays in sync with the presentation.
+3. Group Study Sessions: A study leader can control a PDF document for a study group, allowing all members to follow through notes or study material at the same pace.
 
 # Output
 ![WhatsApp Image 2024-11-12 at 02 52 23](https://github.com/user-attachments/assets/1ce73604-0a41-4387-96b5-c207eda5c167)
